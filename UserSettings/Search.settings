@@ -11,6 +11,7 @@ showStatusBar = false
 scopes = {
 }
 providers = {
+<<<<<<< HEAD
 	asset = {
 		active = true
 		priority = 25
@@ -86,6 +87,8 @@ providers = {
 		priority = 210
 		defaultAction = null
 	}
+=======
+>>>>>>> fedc224702d9c6fdebf4bc1a66ce37b7550a5855
 }
 objectSelectors = {
 }
