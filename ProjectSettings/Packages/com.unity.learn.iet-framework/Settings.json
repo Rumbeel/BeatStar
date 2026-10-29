@@ -1,6 +1,5 @@
 {
     "m_Dictionary": {
-<<<<<<< HEAD
         "m_DictionaryValues": [
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -13,8 +12,5 @@
                 "value": "{\"m_Value\":true}"
             }
         ]
-=======
-        "m_DictionaryValues": []
->>>>>>> fedc224702d9c6fdebf4bc1a66ce37b7550a5855
     }
 }

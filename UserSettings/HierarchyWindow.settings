@@ -37,31 +37,19 @@
             "ColumnId": "GameObject/Static",
             "Visible": false,
             "Width": 75.0,
-<<<<<<< HEAD
             "Index": 5
-=======
-            "Index": 4
->>>>>>> fedc224702d9c6fdebf4bc1a66ce37b7550a5855
         },
         {
             "ColumnId": "GameObject/Layer",
             "Visible": false,
             "Width": 150.0,
-<<<<<<< HEAD
             "Index": 6
-=======
-            "Index": 5
->>>>>>> fedc224702d9c6fdebf4bc1a66ce37b7550a5855
         },
         {
             "ColumnId": "GameObject/Tag",
             "Visible": false,
             "Width": 100.0,
-<<<<<<< HEAD
             "Index": 7
-=======
-            "Index": 6
->>>>>>> fedc224702d9c6fdebf4bc1a66ce37b7550a5855
         }
     ],
     "ScrollPositionX": -1.0,
